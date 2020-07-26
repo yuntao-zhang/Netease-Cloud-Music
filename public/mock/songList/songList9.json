@@ -1,0 +1,21 @@
+{
+  "succ": true,
+  "data": {
+    "titleImg": "http://p2.music.126.net/l_c3SARUoRRhNOLkhZJByA==/109951165077363897.jpg?param=140y140",
+    "titleContent": "所有好运都会与你撞个满怀",
+    "createPhoto": "http://p1.music.126.net/xcLWOiJ9sXCg7M9Ce2P9Ig==/109951164600206013.jpg?param=40y40",
+    "createName": "yuntao",
+    "createTime": "2020-7-19创建",
+    "flagName": [{
+      "id": 1,
+      "flag": "华语"
+    }, {
+      "id": 2,
+      "flag": "治愈"
+    }, {
+      "id": 3,
+      "flag": "感动"
+    }],
+    "introCaption": "愿这词里尽是思念的语，能救活潦潦一生的你，没有人是独一无二 这个世界总有一个和你类似困境的人."
+  }
+}

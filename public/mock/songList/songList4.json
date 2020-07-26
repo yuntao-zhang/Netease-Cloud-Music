@@ -1,0 +1,19 @@
+{
+  "succ": true,
+  "data": {
+    "titleImg": "http://p4.music.126.net/99AYOCL3zLCQigljK2-B4A==/109951165145793107.jpg?param=200y200",
+    "titleContent": "2020上半年度最热新歌TOP50",
+    "createPhoto": "http://p1.music.126.net/xcLWOiJ9sXCg7M9Ce2P9Ig==/109951164600206013.jpg?param=40y40",
+    "createName": "yuntao",
+    "createTime": "2020-7-19创建",
+    "flagName": [{
+      "id": 1,
+      "flag": "流行"
+    }, {
+      "id": 2,
+      "flag": "榜单"
+    }],
+    "introCaption": " 2020上半年度全站热度最高的50首歌曲，歌单数据综合参考了2020上半年度云音乐所有最新上架的歌曲在全站的平均播放及收藏排行。（注：曲目均为2020年第一次上架新歌，已排除新发行正式专辑中收录的部分2020年前已上线歌曲）"
+
+  }
+}

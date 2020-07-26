@@ -1,0 +1,21 @@
+{
+  "succ": true,
+  "data": {
+    "titleImg": "http://p4.music.126.net/ZHsmjis3YaNtGxKYXwzXxg==/109951165149969549.jpg?param=200y200",
+    "titleContent": "遇见了就别留遗憾。",
+    "createPhoto": "http://p1.music.126.net/xcLWOiJ9sXCg7M9Ce2P9Ig==/109951164600206013.jpg?param=40y40",
+    "createName": "yuntao",
+    "createTime": "2020-7-19创建",
+    "flagName": [{
+      "id": 1,
+      "flag": "伤感"
+    }, {
+      "id": 2,
+      "flag": "治愈"
+    }, {
+      "id": 3,
+      "flag": "榜单"
+    }],
+    "introCaption": "有故事的人重来不会挂在嘴边就连崩溃都掩盖的完美。希望你不懂"
+  }
+}

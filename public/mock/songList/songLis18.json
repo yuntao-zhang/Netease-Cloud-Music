@@ -1,0 +1,21 @@
+{
+  "succ": true,
+  "data": {
+    "titleImg": "http://p4.music.126.net/GGPqGuzJBZVuaQyBe74T9A==/109951165085138815.jpg?param=200y200",
+    "titleContent": "高甜时刻丨被爱好似有靠山",
+    "createPhoto": "http://p1.music.126.net/xcLWOiJ9sXCg7M9Ce2P9Ig==/109951164600206013.jpg?param=40y40",
+    "createName": "yuntao",
+    "createTime": "2020-7-19创建",
+    "flagName": [{
+      "id": 1,
+      "flag": "华语"
+    }, {
+      "id": 2,
+      "flag": "清新"
+    }, {
+      "id": 3,
+      "flag": "浪漫"
+    }],
+    "introCaption": "一个人 一旦有了依赖就会变得像幼儿园门口等待被接走的小朋友只有坠入爱河的人才知道原来被爱真的好似有靠山"
+  }
+}

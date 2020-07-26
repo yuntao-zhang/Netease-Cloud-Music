@@ -1,0 +1,22 @@
+{
+  "succ": true,
+  "data": {
+    "titleImg": "http://p3.music.126.net/XWYYemCMmSfgFTrgdwR1CA==/109951164737070906.jpg?param=200y200",
+    "titleContent": "刷题 看书 学习 工作 冥想",
+    "createPhoto": "http://p1.music.126.net/xcLWOiJ9sXCg7M9Ce2P9Ig==/109951164600206013.jpg?param=40y40",
+    "createName": "yuntao",
+    "createTime": "2020-7-19创建",
+    "flagName": [{
+      "id": 1,
+      "flag": "轻音乐"
+    }, {
+      "id": 2,
+      "flag": "工作"
+    }, {
+      "id": 3,
+      "flag": "学习"
+    }],
+    "introCaption": "歌单的曲子是今年五月备考教招一直到八月我教招上岸一直陪着我的，学习的时候失眠的时候，歌曲也是我一首一首填进去的，多亏有了它，很高兴你们也能喜欢。"
+
+  }
+}

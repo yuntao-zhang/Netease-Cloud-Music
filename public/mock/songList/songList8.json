@@ -1,0 +1,21 @@
+{
+  "succ": true,
+  "data": {
+    "titleImg": "http://p3.music.126.net/v1rXGjx3wHunScmOwEVaiQ==/109951164877258119.jpg?param=200y200",
+    "titleContent": "网易云比你懂我",
+    "createPhoto": "http://p1.music.126.net/xcLWOiJ9sXCg7M9Ce2P9Ig==/109951164600206013.jpg?param=40y40",
+    "createName": "yuntao",
+    "createTime": "2020-7-19创建",
+    "flagName": [{
+      "id": 1,
+      "flag": "华语"
+    }, {
+      "id": 2,
+      "flag": "流行"
+    }, {
+      "id": 3,
+      "flag": "翻唱"
+    }],
+    "introCaption": "留在我的网易云把你们的文案分享给我好吗手掌就那么大握不住的东西太多了"
+  }
+}

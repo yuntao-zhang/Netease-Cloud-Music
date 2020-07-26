@@ -1,0 +1,22 @@
+{
+  "succ": true,
+  "data": {
+    "titleImg": "http://p3.music.126.net/P1pcvD8-O-wVGVYodddTjA==/109951164973112147.jpg?param=200y200",
+    "titleContent": "「New Age纯音乐」跑步 工作 看书 睡眠",
+    "createPhoto": "http://p1.music.126.net/xcLWOiJ9sXCg7M9Ce2P9Ig==/109951164600206013.jpg?param=40y40",
+    "createName": "yuntao",
+    "createTime": "2020-7-19创建",
+    "flagName": [{
+      "id": 1,
+      "flag": "New Age"
+    }, {
+      "id": 2,
+      "flag": "轻音乐"
+    }, {
+      "id": 3,
+      "flag": "安静"
+    }],
+    "introCaption": "踮起脚，就会更接近太阳也只有踮起脚，才能更接近太阳生活中总有太多的浅尝辄止你一定不会只听前奏的，对吧？"
+
+  }
+}

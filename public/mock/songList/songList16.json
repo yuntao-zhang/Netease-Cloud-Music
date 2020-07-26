@@ -1,0 +1,21 @@
+{
+  "succ": true,
+  "data": {
+    "titleImg": "http://p3.music.126.net/8XD3cY38nmXdNU6kwvKCmg==/109951165102772898.jpg?param=200y200",
+    "titleContent": "末世狂想：华语音乐的“末日情结”",
+    "createPhoto": "http://p1.music.126.net/xcLWOiJ9sXCg7M9Ce2P9Ig==/109951164600206013.jpg?param=40y40",
+    "createName": "yuntao",
+    "createTime": "2020-7-19创建",
+    "flagName": [{
+      "id": 1,
+      "flag": "华语"
+    }, {
+      "id": 2,
+      "flag": "流行"
+    }, {
+      "id": 3,
+      "flag": "浪漫"
+    }],
+    "introCaption": "在大自然面前，人类永远是渺小的。不论是曾经科技落后，崇奉宗教的人类敬畏末日审判、天降灾厄，还是如今环境恶化、瘟疫横行的现实，人类恐慌世界末日的来临，“末日情结”，始终伴随着人类历史进程，并对文化形成了深刻的烙印。"
+  }
+}

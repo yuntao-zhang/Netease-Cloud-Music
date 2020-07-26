@@ -1,0 +1,84 @@
+{
+  "succ": true,
+  "list": [ {
+    "id": "01",
+    "title": "In My Fantasy",
+    "singer": "Lucas Estrada",
+    "album": "In My Fantasy",
+    "duration": "2:51",
+    "coverImg": "http://p1.music.126.net/Y0Udz4BnDyY3R2bdPqMKKQ==/109951164867120419.jpg?param=130y130",
+    "audioSrc": "http://localhost:8080/music/InMyFantasy.m4a"
+  }, {
+    "id": "02",
+    "title": "River Flows in You",
+    "singer": "Yiruma",
+    "album": "Absolute Romance",
+    "duration": "3:34",
+    "coverImg": "http://p2.music.126.net/8ZRSyI0ZN_4ah8uzsNd1mA==/2324367581169008.jpg?param=130y130",
+    "audioSrc": "http://localhost:8080/music/riverFlowsInYou.m4a"
+  },{
+    "id": "03",
+    "title": "East Side",
+    "singer": "J.Fla",
+    "album": "Natural",
+    "duration": "2:35",
+    "coverImg": "http://p2.music.126.net/3_I_lnUf-tpbI3RJ-6vZXQ==/109951163677864247.jpg?param=130y130",
+    "audioSrc": "http://localhost:8080/music/EastSide.m4a"
+  }, {
+    "id": "04",
+    "title": "The Sound of Silence",
+    "singer": "Pentatonix",
+    "album": "The Sound of Silence",
+    "duration": "3:32",
+    "coverImg": "http://p2.music.126.net/ifFe6G6O9SS0mPeZXJDsrA==/109951163860953356.jpg?param=130y130",
+    "audioSrc": "http://localhost:8080/music/theSoundofSilence.mp3"
+  }, {
+    "id": "05",
+    "title": "DeepBlue",
+    "singer": "William Black / Monika Santucci",
+    "album": "Pages",
+    "duration": "3:21",
+    "coverImg": "http://p2.music.126.net/D3SfKcBMX2fSf-g6QHgxYw==/109951164252041917.jpg?param=130y130",
+    "audioSrc": "http://localhost:8080/music/deepBlue.m4a"
+  }, {
+    "id": "06",
+    "title": "青石巷",
+    "singer": "魏琮霏",
+    "album": "Wei",
+    "duration": "3:47",
+    "coverImg": "http://p1.music.126.net/uNpSTrse-CivyZ2NUyhJUQ==/17892352718986703.jpg?param=130y130",
+    "audioSrc": "http://localhost:8080/music/qingshixiang.m4a"
+  }, {
+    "id": "07",
+    "title": "卡农",
+    "singer": "dylanf",
+    "album": "卡农Canon",
+    "duration": "5:00",
+    "coverImg": "http://p2.music.126.net/-ShCoe12zt2C2mPQgaq0ZQ==/109951162915837220.jpg?param=130y130",
+    "audioSrc": "http://localhost:8080/music/canon.m4a"
+  }, {
+    "id": "08",
+    "title": "蜂鸟",
+    "singer": "吴青峰",
+    "album": "蜂鸟",
+    "duration": "3:45",
+    "coverImg": "http://p2.music.126.net/rQw-f1jS2PIDnY2DoYlO7w==/109951163890222255.jpg?param=130y130",
+    "audioSrc": "http://localhost:8080/music/amazon.mp3"
+  }, {
+    "id": "09",
+    "title": "Locked Away",
+    "singer": "R. City / Adam Levine",
+    "album": "Locked Away",
+    "duration": "3:47",
+    "coverImg": "http://p2.music.126.net/aUeZlDq04ZnIBFkeRUSyuA==/7928578348598555.jpg?param=130y130",
+    "audioSrc": "http://localhost:8080/music/LockedAway.m4a"
+  }, {
+    "id": "10",
+    "title": "In Between",
+    "singer": "Quinn Lewis",
+    "album": "In Between",
+    "duration": "3:00",
+    "coverImg": "http://p2.music.126.net/0T36gTKhfx6UH9yWvXh6WA==/109951163138998828.jpg?param=130y130",
+    "audioSrc": "http://localhost:8080/music/Inbetween.m4a"
+  }]
+}

@@ -1,0 +1,21 @@
+{
+  "succ": true,
+  "data": {
+    "titleImg": "http://p3.music.126.net/3nGmOK1SvHJsRWYbpVsXdg==/109951165003042977.jpg?param=200y200",
+    "titleContent": "『欧美』专属电影院的珍贵时光",
+    "createPhoto": "http://p1.music.126.net/xcLWOiJ9sXCg7M9Ce2P9Ig==/109951164600206013.jpg?param=40y40",
+    "createName": "yuntao",
+    "createTime": "2020-7-19创建",
+    "flagName": [{
+      "id": 1,
+      "flag": "欧美"
+    }, {
+      "id": 2,
+      "flag": "影视原声"
+    }, {
+      "id": 3,
+      "flag": "怀旧"
+    }],
+    "introCaption": "还记得上一次去电影院是什么时候，看的是什么电影吗？去电影院看电影，有时是好友间聚会的饭后消遣，有时是为两个人创造一点独处空间绝佳机会，有时一个人去电影院真的是纯粹出于热爱想去看某一部电影但..."
+  }
+}

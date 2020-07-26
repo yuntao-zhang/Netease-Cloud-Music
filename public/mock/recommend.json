@@ -1,0 +1,161 @@
+{
+  "succ": true,
+  "bannerList": [
+    {
+      "id": 1,
+      "bannerUrl": "http://p1.music.126.net/D76seshEecfhbkITPqiKMw==/109951165145819717.jpg?imageView&quality=89"
+    }, {
+      "id": 2,
+      "bannerUrl": "http://p1.music.126.net/FBVmNM7xOeiVvUfkTFKJDw==/109951165145756798.jpg?imageView&quality=89"
+    }, {
+      "id": 3,
+      "bannerUrl": "http://p1.music.126.net/IRQdhphGy1ON_8MLduvYpw==/109951165145820915.jpg?imageView&quality=89"
+    }, {
+      "id": 4,
+      "bannerUrl": "http://p1.music.126.net/CHHLngpn1O4dKjteht2kOA==/109951165145769816.jpg?imageView&quality=89"
+    }, {
+      "id": 5,
+      "bannerUrl": "http://p1.music.126.net/T8YUY1w99vYr0yXq9tVXDw==/109951165146233914.jpg?imageView&quality=89"
+    }, {
+      "id": 6,
+      "bannerUrl": "http://p1.music.126.net/o0jaZSY4yLm84YyjflgTAA==/109951165146268254.jpg?imageView&quality=89"
+    }, {
+      "id": 7,
+      "bannerUrl": "http://p1.music.126.net/lO92arS2dcBft6TSkllu_w==/109951165147806001.jpg?imageView&quality=89"
+    }, {
+      "id": 8,
+      "bannerUrl": "http://p1.music.126.net/gsUeg0og7whRMSZWNpYEqw==/109951165146266536.jpg?imageView&quality=89"
+    }, {
+      "id": 9,
+      "bannerUrl": "http://p1.music.126.net/6ilIGlXEH4B40cVxTNjF5Q==/109951165147035751.jpg?imageView&quality=89"
+    }, {
+      "id": 10,
+      "bannerUrl": "http://p1.music.126.net/WzsufI2aqDX8413yano-qA==/109951165147741280.jpg?imageView&quality=89"
+    }
+  ],
+  "recommendSongList":{
+    "title": "推荐歌单",
+    "songList": [{
+      "id": 1,
+      "coverImg": "http://p4.music.126.net/d4i3czOgxwLkiVmV0kEnfQ==/109951164965129040.jpg?param=200y200",
+      "playTimes": "178万",
+      "description": "天籁和声|男女合唱|极致之声",
+      "router": "songList/songList1"
+    }, {
+      "id": 2,
+      "coverImg": "http://p4.music.126.net/trI9buKLezuHTJ2RFTwmWw==/109951165076059576.jpg?param=200y200",
+      "playTimes": "15万",
+      "description": "我在银河便利店，想给你的星球寄一封信",
+      "router": "songList/songList2"
+    }, {
+      "id": 3,
+      "coverImg": "http://p3.music.126.net/XWYYemCMmSfgFTrgdwR1CA==/109951164737070906.jpg?param=200y200",
+      "playTimes": "56万",
+      "description": "刷题 看书 学习 工作 冥想",
+      "router": "songList/songList3"
+    }, {
+      "id": 4,
+      "coverImg": "http://p4.music.126.net/99AYOCL3zLCQigljK2-B4A==/109951165145793107.jpg?param=200y200",
+      "playTimes": "155124万",
+      "description": "2020上半年度最热新歌TOP50",
+      "router": "songList/songList4"
+    }, {
+      "id": 5,
+      "coverImg": "http://p4.music.126.net/uEOIYkdUKS0Y-bGvEAI_4w==/109951165064841352.jpg?param=200y200",
+      "playTimes": "45543",
+      "description": "[欧美私人订制] 最懂你的欧美推荐 每日更新35首",
+      "router": "songList/songList5"
+    }, {
+      "id": 6,
+      "coverImg": "http://p3.music.126.net/P1pcvD8-O-wVGVYodddTjA==/109951164973112147.jpg?param=200y200",
+      "playTimes": "1563万",
+      "description": "「New Age纯音乐」跑步 工作 看书 睡眠",
+      "router": "songList/songList6"
+    }, {
+      "id": 7,
+      "coverImg": "http://p4.music.126.net/pMVnViboITvn_KDmcfoaEA==/109951164873911421.jpg?param=200y200",
+      "playTimes": "11万",
+      "description": "嘘，请安静（作业/读书/夜晚/氛围）",
+      "router": "songList/songList7"
+    }, {
+      "id": 8,
+      "coverImg": "http://p3.music.126.net/v1rXGjx3wHunScmOwEVaiQ==/109951164877258119.jpg?param=200y200",
+      "playTimes": "18万",
+      "description": "网易云比你懂我",
+      "router": "songList/songList8"
+    }, {
+      "id": 9,
+      "coverImg": "http://p2.music.126.net/l_c3SARUoRRhNOLkhZJByA==/109951165077363897.jpg?param=140y140",
+      "playTimes": "15万",
+      "description": "所有好运都会与你撞个满怀",
+      "router": "songList/songList9"
+    }, {
+      "id": 10,
+      "coverImg": "http://p3.music.126.net/FFv3X-5m13Bi6kO5ObcAOQ==/109951164774795457.jpg?param=200y200",
+      "playTimes": "12345",
+      "description": "冷门亦惊艳｜聆听女声与电音的心动交汇",
+      "router": "songList/songList10"
+    },
+    {
+      "id": 11,
+      "coverImg": "http://p3.music.126.net/sU2RufgXPu6v73NficPs9g==/109951164977334271.jpg?param=200y200",
+      "playTimes": "127万",
+      "description": "民谣——永远是敲击心灵的那把小锤子",
+      "router": "songList/songList11"
+    }, {
+      "id": 12,
+      "coverImg": "http://p4.music.126.net/-Z7XTuQra_bdCLzrLXXUDg==/109951164766852562.jpg?param=200y200",
+      "playTimes": "13万",
+      "description": "以 丧 治 丧",
+      "router": "songList/songList12"
+    }, {
+      "id": 13,
+      "coverImg": "http://p4.music.126.net/m96Avv3sw-EJjL8QlRFg8A==/109951165007346256.jpg?param=200y200",
+      "playTimes": "56万",
+      "description": "超好听的翻唱合集 夏天的风",
+      "router": "songList/songList13"
+    }, {
+      "id": 14,
+      "coverImg": "http://p3.music.126.net/TeECiyPc5clPDuczu6Qu1A==/109951165096261010.jpg?param=200y200",
+      "playTimes": "174万",
+      "description": "英文欧美｜质感磁嗓 烂熟于心。",
+      "router": "songList/songList14"
+    }, {
+      "id": 15,
+      "coverImg": "http://p3.music.126.net/3nGmOK1SvHJsRWYbpVsXdg==/109951165003042977.jpg?param=200y200",
+      "playTimes": "45543",
+      "description": "『欧美』专属电影院的珍贵时光",
+      "router": "songList/songList15"
+    }, {
+      "id": 16,
+      "coverImg": "http://p3.music.126.net/8XD3cY38nmXdNU6kwvKCmg==/109951165102772898.jpg?param=200y200",
+      "playTimes": "1563万",
+      "description": "末世狂想：华语音乐的“末日情结”",
+      "router": "songList/songList16"
+    }, {
+      "id": 17,
+      "coverImg": "http://p3.music.126.net/x42oPYBGw6ppSJ1q7vg3Ow==/109951165154898346.jpg?param=200y200",
+      "playTimes": "11万",
+      "description": "“网 抑 云”",
+      "router": "songList/songList17"
+    }, {
+      "id": 18,
+      "coverImg": "http://p4.music.126.net/GGPqGuzJBZVuaQyBe74T9A==/109951165085138815.jpg?param=200y200",
+      "playTimes": "18万",
+      "description": "高甜时刻丨被爱好似有靠山",
+      "router": "songList/songList18"
+    }, {
+      "id": 19,
+      "coverImg": "http://p4.music.126.net/85TW1PuLGZ8q_jTEPPlAFg==/109951165077421899.jpg?param=200y2000",
+      "playTimes": "15万",
+      "description": "初见姑娘时，花开秋上",
+      "router": "songList/songList19"
+    }, {
+      "id": 20,
+      "coverImg": "http://p4.music.126.net/ZHsmjis3YaNtGxKYXwzXxg==/109951165149969549.jpg?param=200y200",
+      "playTimes": "12345",
+      "description": "遇见了就别留遗憾。",
+      "router": "songList/songList20"
+    }]
+  }
+}
